@@ -1,0 +1,37 @@
+/* style.css */
+
+/* Class selector: .importantText */
+.importantText {
+  color: darkred;
+  font-weight: bold;
+  font-family: Arial, sans-serif;
+  margin: 20px 0;
+  padding: 10px;
+  border: 1px solid darkgray;
+  border-radius: 5px;
+}
+
+/* ID selector: #header */
+#header {
+  background-color: lightblue;
+  color: navy;
+  text-align: center;
+  padding: 10px 20px;
+  font-size: 24px;
+  font-family: 'Verdana', sans-serif;
+}
+
+/* Element selector: img */
+img {
+  border: 5px solid #ccc;
+  max-width: 100%;
+  height: auto;
+}
+
+/* Optional: Additional styling for better aesthetics */
+body {
+  font-family: 'Open Sans', sans-serif;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 20px;
+}
