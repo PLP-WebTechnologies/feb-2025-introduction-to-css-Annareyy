@@ -1,14 +1,13 @@
 /* style.css */
 
-/* Class selector: .importantText */
-.importantText {
+/* Class selector: .text */
+.text {
   color: darkred;
   font-weight: bold;
   font-family: Arial, sans-serif;
   margin: 20px 0;
   padding: 10px;
   border: 1px solid darkgray;
-  border-radius: 5px;
 }
 
 /* ID selector: #header */
